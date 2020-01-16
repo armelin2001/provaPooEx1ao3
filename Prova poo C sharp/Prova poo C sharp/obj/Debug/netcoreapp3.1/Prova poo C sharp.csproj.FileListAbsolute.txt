@@ -1,0 +1,11 @@
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.exe
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.deps.json
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.runtimeconfig.json
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.runtimeconfig.dev.json
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.dll
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\bin\Debug\netcoreapp3.1\Prova poo C sharp.pdb
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\obj\Debug\netcoreapp3.1\Prova poo C sharp.csprojAssemblyReference.cache
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\obj\Debug\netcoreapp3.1\Prova poo C sharp.AssemblyInfoInputs.cache
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\obj\Debug\netcoreapp3.1\Prova poo C sharp.AssemblyInfo.cs
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\obj\Debug\netcoreapp3.1\Prova poo C sharp.dll
+C:\Users\MSAD\source\repos\Prova poo C sharp\Prova poo C sharp\obj\Debug\netcoreapp3.1\Prova poo C sharp.pdb
